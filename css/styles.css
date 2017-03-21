@@ -1,3 +1,26 @@
+body {
+  background-color: #ffc966;
+  font-family: 'Podkova', serif;
+}
+
+h1 {
+  margin: auto;
+  width: 50%;
+  margin-bottom: 20px;
+}
+
+.col-md-3 {
+  height: 200px;
+  background-color: #b366ff;
+  border: 5px solid #ffc966;
+}
+
+.panel-heading {
+  font-size: 18pt;
+  cursor: pointer;
+}
+
 .panel-body {
+  font-size: 18px;
   display: none;
 }
